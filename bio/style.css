@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 
-body {font: verdana;
+body {font-family: verdana;
 	font-size: 20px;
 
 
 
 }
 
-p { font: verdana, serif;
+p { font-family: verdana, serif;
 	font-size: 20px;
 
 
@@ -18,11 +18,10 @@ p { font: verdana, serif;
 
 h1 {
 	font-size: 30px;
-	font: Arial;
-
+	font-family: Arial;
 }
 
-h2 {font: Arial, sans-serif;
+h2 {font-family: Arial, sans-serif;
 	font-size: 48px;
 	font-style: bold;
 
