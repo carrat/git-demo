@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+
+body {font: verdana;
+	font-size: 20px;
+
+
+
+}
+
+p { font: verdana, serif;
+	font-size: 20px;
+
+
+
+
+}
+
+h1 {
+	font-size: 30px;
+	font: Arial;
+
+}
+
+h2 {font: Arial, sans-serif;
+	font-size: 48px;
+	font-style: bold;
+
+
+
+
+}
+
+#container { width: 600px;
+
+
+
+}
+
+#header {
+
+
+
+
+}
+
+#main {
+
+
+
+
+}
+
+
+#footer {
+
+
+
+
+
+}
+}
